@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/chieh0225/2024-hexschool-react-training/week2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
