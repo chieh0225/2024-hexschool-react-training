@@ -1,6 +1,9 @@
 import axios from "axios";
 import { useState } from "react";
 
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./assets/week2.scss";
+
 const BASE_URL = import.meta.env.VITE_BASE_URL;
 const API_PATH = import.meta.env.VITE_API_PATH;
 
